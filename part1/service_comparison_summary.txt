@@ -1,0 +1,10 @@
+Amazon: 
+Pros: Had fastest run time of 4 minutes. Overall second best accuracy (65.97%). Cons: 5000 character limit
+Charges per 1 unit of 100 characters, with a 3 unit minimum for each request. First 50k units (5M characters) are free. Then costs $0.0001 per unit up to 10M units. 
+	
+Google: Pros: Most accurate (85.45%). No character limits. Cons: Slowest by far (35 minutes)
+	Pay as you go. First 5000 free. Then $1 for each additional 1000.
+
+Azure: 
+Least accurate (64.69%). Detects less nuance than other services; mixed results describe with less accuracy the degree of positivity/negativity. Has a 5120 character limit. Key is not hidden in implementation, so information can be stolen. 
+Free for first 5000 transactions. Then $74.71 per month for 25000 transactions. Each additional 1000 transaction is another $3. 
